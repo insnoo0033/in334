@@ -221,7 +221,7 @@ function create_config( )
     "get",
     "broadcast",
     "download_media",
-    "invite"@mmm3342 (https://t.me/mmm3342),
+    "invite",
     "all",
     "leave_ban",
     "admin",
@@ -239,7 +239,7 @@ function create_config( )
     "time",
     "welcome"
     },
-    sudo_users = {399686983},--Sudo users
+    sudo_users = {@mmm3342 (https://t.me/mmm3342)},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[Sbss Bot V2 Beta
